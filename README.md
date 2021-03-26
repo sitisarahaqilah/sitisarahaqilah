@@ -1,4 +1,4 @@
-### hello, people of the internet :)
+### hello, people of the internet 🍄
 
 <!--
 **sitisarahaqilah/sitisarahaqilah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![banner](https://user-images.githubusercontent.com/66114593/112575477-5a9e6500-8e2b-11eb-9e38-fd8a2c5bc292.png)
+
+I'm a second year computer science student majoring in software engineering. <br>
+A coffee addict, and proud owner of 8 (yes, eight!) cats 🐾
 
 
