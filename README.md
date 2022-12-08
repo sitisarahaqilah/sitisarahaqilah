@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![banner](https://user-images.githubusercontent.com/66114593/112575477-5a9e6500-8e2b-11eb-9e38-fd8a2c5bc292.png)
 
-I'm a second year computer science student majoring in software engineering. <br>
-A coffee addict, and proud owner of 8 (yes, eight!) cats 🐾
+I'm a final year computer science student majoring in software engineering. <br>
+With passion for design and development, I'm looking to pursue a future in Product Design and/or Web Development! 💻🎨
 
 
